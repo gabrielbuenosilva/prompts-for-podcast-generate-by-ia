@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/output-edited.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/gabrielbuenosilva/prompts-for-podcast-generate-by-ia/raw/main/output/output-edited.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
